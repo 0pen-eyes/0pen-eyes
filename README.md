@@ -1,5 +1,4 @@
 @ 0pen-eyes
 
-Beginner Indie Unity Game Dev, 
-Canadian High School Student, 
-Grade 12, 
+Beginner indie game dev,
+desires to learn unity and unreal
